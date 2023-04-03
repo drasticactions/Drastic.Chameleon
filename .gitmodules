@@ -1,0 +1,3 @@
+[submodule "external/Chameleon"]
+	path = external/Chameleon
+	url = git@github.com:drasticactions/Chameleon.git
